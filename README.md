@@ -1,7 +1,6 @@
 # leecode
 
 
-fff
 
 | # | Chinese | Title | Solution |
 | ----- | ------ | ------- | ------ |
